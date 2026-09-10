@@ -1,0 +1,9 @@
+numpy
+scipy
+soundfile
+python_speech_features
+tensorflow
+scikit-learn
+matplotlib
+vosk
+tqdm
